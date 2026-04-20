@@ -1,0 +1,7 @@
+[package]
+name = "plato-tile-api"
+version = "0.1.0"
+edition = "2021"
+description = "Stateful tile API — process, search, score, rank in one interface"
+license = "MIT"
+readme = "README.md"
