@@ -1,0 +1,6 @@
+[package]
+name = "plato-tile-api"
+version = "0.1.0"
+edition = "2021"
+description = "Tile processing API — validate, score, store, search, rank with zero external deps"
+license = "MIT"
